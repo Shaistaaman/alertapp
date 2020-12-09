@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "752182388755",
+    "firebase_url": "https://alert-666.firebaseio.com",
+    "project_id": "alert-666",
+    "storage_bucket": "alert-666.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752182388755:android:39915b18af8a85cc16b7e6",
+        "android_client_info": {
+          "package_name": "alert.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752182388755-h9st4ftuddofoavvkntnj0lcf9datcia.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "alert.com",
+            "certificate_hash": "4b3e9a75e857fad6cafe279e707398fcc93261e8"
+          }
+        },
+        {
+          "client_id": "752182388755-a0j6s4m20g6pnfpol6k042i215fndupp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw9hnj_RknmlP2L-ZDwimgI7lkYWEw9jI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752182388755-a0j6s4m20g6pnfpol6k042i215fndupp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
